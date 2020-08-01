@@ -1,28 +1,52 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "image": "https://img.stpu.com.br/?img=https://s3.amazonaws.com/pu-mgr/default/a0R0f000016b1E3EAI/5d2788e1e4b0dfd2e3e22f0e.jpg&w=338&h=220",
+      "name": "Filé a parmegiana",
       "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "description": "",
+      "id": 1,
+      "available": true
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Salchipapas.jpg/300px-Salchipapas.jpg",
+      "name": "Salchipapas",
+      "price": "14.90",
+      "description": "",
+      "id": 4,
+      "available": true
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "image": "https://1.bp.blogspot.com/-AbGH4zaMHRo/XCaWxTgW8eI/AAAAAAAAAAc/qchZ9KzQpcw5f3v9d0Zx11guvpuLc_Q2gCEwYBhgL/s400/Noite-feijoada.png",
+      "name": "Moda Nordestina Raiz",
+      "price": "49.90",
+      "description": "",
+      "id": 5,
+      "available": true
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Moqueca_capixaba_18_de_janeiro_de_2014_%282%29.JPG/220px-Moqueca_capixaba_18_de_janeiro_de_2014_%282%29.JPG",
+      "name": "Moqueca",
+      "price": "22.90",
+      "description": "",
+      "id": 6,
+      "available": true
+    },
+    {
+      "image": "https://www.cozinhabrasileira.com/foto/receita/A4DF0.jpg",
+      "name": "Galinha Caipira",
+      "price": "40.90",
+      "description": "",
+      "id": 7,
+      "available": true
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/300px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+      "name": "Moda da Casa",
+      "price": "16.90",
+      "description": "",
+      "id": 8,
+      "available": true
     }
   ]
 }
